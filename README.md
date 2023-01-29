@@ -9,7 +9,7 @@ To write a program to find the maximum of a list of numbers.
 2.	Use the sort() function or max() function or use the for loop to find the maximum mark.
 3.	Return the maximum value
 ## Program:
-## Program Developed by: J.Nethraa
+##Program Developed by: J.Nethraa
    Reference no.: 22006789
 
 i)	# To find the maximum of marks using the list method sort.
